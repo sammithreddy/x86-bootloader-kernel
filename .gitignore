@@ -1,0 +1,7 @@
+# Build outputs (recreate with `make`)
+*.bin
+*.o
+*.pad
+kernel.map
+
+.DS_Store
